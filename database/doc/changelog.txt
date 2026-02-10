@@ -157,9 +157,9 @@
     main/SrTiO3/nk/Chernova.yml
     other/doped crystals/Nb-SrTiO3/nk/Chernova.yml
     other/mixed crystals/LaAlO3-Sr2TaAlO6/nk/Chernova.yml
-    main/MgO/nk/Synowicki-UV.yml
-    main/ZrO2/nk/Synowicki-UV.yml
-    main/As2S3/nk/Synowicki-UV.yml
+    main/MgO/nk/Synowicki.yml
+    main/ZrO2/nk/Synowicki.yml
+    main/As2S3/nk/Synowicki.yml
   corrections
     specs/cargille/index-matching liquids/nk/BK7_matching_liquid.yml: fix 2nd coefficient of dispersion formula: 4.7089420E-5 --> 4.7089420E-3 (thanks to Jack Agnes, Bbinghamton University, USA, for reporting the error!)
     'organic/C4H9NO - dimethylacetamide/nk/Li.yml' moved to 'organic/C8H11N - dimethylaniline/nk/Li.yml' (thanks to Alexey Sivokhin, Nizhny Novgorod State Technical University, Russia, for spotting the error!)
